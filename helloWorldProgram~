@@ -1,0 +1,9 @@
+/* Hello World program By Hugo Saúl Sánchez Montes de Oca*/
+
+#include<stdio.h>
+
+main()
+{
+    printf("Hello World");
+}
+
